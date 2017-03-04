@@ -1,4 +1,4 @@
-#jodiendo :P
+#jodiendo :P desde rama 1.1
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
