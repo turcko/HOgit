@@ -1,4 +1,34 @@
+#Comandos utilizados (un motón, me canse de romper :D):
+
+git branch rama1.1
+git checkout rama1.1
+nano README.md
+git add README.md
+git commit -m "..."
+
+git checkout master
+
+git branch rama1.2
+git checkout rama1.2
+nano ejercicios.md
+git add ejercicios.md
+git commit -m "..."
+
+git checkout master
+
+git merge --no-f rama1.1
+git merge --no-f rama1.2
+
+git push -u origin master
+git push -u origin rama1.1
+git push -u origin rama1.2
+
+nano README.md   //agrego comandos
+
+git push
+
 #jodiendo :P desde rama 1.1
+
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
